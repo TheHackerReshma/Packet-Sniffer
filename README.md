@@ -27,6 +27,7 @@ The Cira Packet Sniffer is a Python-based tool for capturing, analyzing, and log
 
 2.Install Dependencies:
 Install the required Python libraries using pip:
+
 pip install scapy tk
 
 
