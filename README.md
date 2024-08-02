@@ -22,26 +22,26 @@ The Cira Packet Sniffer is a Python-based tool for capturing, analyzing, and log
 ## Installation
 
 1. **Clone the Repository**:
-   ```sh
+   
    git clone https://github.com/TheHackerReshma/Packet-Sniffer.git
 
 2.Install Dependencies:
+
 Install the required Python libraries using pip:
 
 pip install scapy tk
 
 
 Usage
-1.Run the Script:
-python packet_sniffer.py
 
-Usage
 1.Run the Script:
+
 python packet_sniffer.py
 
 2.GUI Controls:
 
 File Menu:
+
 Start Sniffing: Begin capturing network packets.
 Stop Sniffing: Stop capturing packets.
 Export to PCAP: Save captured packets to a PCAP file.
